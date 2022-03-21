@@ -104,6 +104,7 @@
 		E716BF5627E1E5C5009F468C /* Module */ = {
 			isa = PBXGroup;
 			children = (
+				E716BF6C27E1E8B6009F468C /* Network */,
 				E716BF5927E1E5F1009F468C /* View */,
 				E716BF5827E1E5E3009F468C /* Controller */,
 				E716BF5727E1E5D6009F468C /* Model */,
@@ -122,8 +123,8 @@
 		E716BF5827E1E5E3009F468C /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				E716BF6427E1E677009F468C /* FilmsCells.swift */,
-				E716BF6C27E1E8B6009F468C /* Network */,
+				E716BF6827E1E6AE009F468C /* InfoViewController.swift */,
+				E716BF4527E1E5A6009F468C /* MainViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -131,8 +132,7 @@
 		E716BF5927E1E5F1009F468C /* View */ = {
 			isa = PBXGroup;
 			children = (
-				E716BF4527E1E5A6009F468C /* MainViewController.swift */,
-				E716BF6827E1E6AE009F468C /* InfoViewController.swift */,
+				E716BF6427E1E677009F468C /* FilmsCells.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
